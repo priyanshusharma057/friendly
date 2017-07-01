@@ -1,0 +1,120 @@
+
+  header {
+  background-color: #4267b2;
+  height: 30px;
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main { background-color: orange; }
+
+#menu { background-color: pink; }
+
+#sidebar { background-color: yellow; }
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main { background-color: orange; }
+
+#menu { background-color: pink; }
+#sidebar { background-color: yellow; }
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+
+#header {
+    background-color: #4267b2;
+    color: white;
+}
+	.vi {
+  color: white !important;
+}
+.vi img{
+
+	border: soid;
+	border-radius: 5px;
+	position: relative;
+	right: 9px;
+}
+#menu img{
+	border: soid;
+	border-radius: 5px; 
+	position: relative;
+	right: 9px;
+	
+}
+.navbar-header img{
+	border: soid;
+	border-radius: 5px;
+	position: relative;
+	top: 9px;
+	
+}
+
+#header ul .glyphicon {
+    font-size: 20px;
+}
+.pull-right {
+    float: right !important;
+}
+.dropdown {
+	color: white;
+}
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.comment {
+    margin: 0;
+}
+#menu {
+    overflow: auto;
+}
+#menu::-webkit-scrollbar {
+    display: none;
+}
+.comment spam {
+	padding: 10px;
+}
+	
+
+
