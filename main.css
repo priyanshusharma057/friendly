@@ -115,6 +115,16 @@
 .comment spam {
 	padding: 10px;
 }
+#vicku{
+	position: relative;
+	left: -8px;
+}
+.w3-badge{
+	position: relative;
+	bottom: 8px;
+	
+}
+
 	
 
 
